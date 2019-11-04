@@ -1,0 +1,4 @@
+dependencies:
+  - name: template-node-react
+    version: 1.0.0-4
+    repository: http://artifactory.garage-devtools-sfo-rhos.us-east.containers.appdomain.cloud/generic-local/garage-devtools-sfo/
